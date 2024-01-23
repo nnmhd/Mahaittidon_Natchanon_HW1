@@ -6,27 +6,25 @@ Here is the repository for Homework 1!
 
 ## Hello! This is Nate & Kieth
 
----
-
 ## Natchanon Nate Mahaittidon 
 
-### Myself-portrait
+### This, myself-portrait
 
 ![This is me, the asian fat dad](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/3ab789d6f5d027f04d068229d94212fb34cb0ad0914f05b9.png)
 
-### 3 Hobbies
+### My 3 Hobbies
 
 1.  Playing an online game (I'm Overwatch big fan who died after the game)
 2.  Watch the documentaries
 3.  Scrolling the meme
 
-### 3 Designer life goal
+### My 3 Designer life goal
 
 *   Make the simple-cool 3D elements and can put them every screen
 *   Build my own little design studio
 *   Produce 3D prints of all characters my son has drawn
 
-### 3 Favorite Emoji
+### My 3 Favorite Emoji
 
 😂 🙏🏻 🧐
 
