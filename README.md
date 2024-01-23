@@ -52,7 +52,7 @@ _(Generated through MidJourney AI)_
 
 ### My life in 10 emojis
 
-🤔😪🤣🎮🍿🍙🍤🍔🍣🍜
+🤔 😪 🤣 🎮 🍿 🍙 🍤 🍔 🍣 🍜
 
 ## Installation
 
@@ -70,7 +70,7 @@ It depends on waking up time
 
 **Nate** \- Coffee ☕️ (up to 6 hours)
 
-**Keith** \- Power Nap 😴 (1hr power nap for another 4hrs of work)
+**Keith** \- Power Nap 😴 (1 hour power nap for another 4 hours of work)
 
 ---
 
