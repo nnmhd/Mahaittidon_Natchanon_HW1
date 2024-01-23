@@ -4,7 +4,7 @@ Here is the repository for Homework 1!
 
 ---
 
-## Hello! This is Nate & Kieth
+## 👋👋 Hello! This is Nate & Kieth
 
 ## Natchanon Nate Mahaittidon 
 
