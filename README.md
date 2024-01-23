@@ -24,9 +24,9 @@ Here is the repository for Homework 1!
 *   Build my own little design studio
 *   Produce 3D prints of all characters my son has drawn
 
-### My 3 Favorite Emoji
+### My life in 10 emojis
 
-😂 🙏🏻 🧐
+🇹🇭 👨‍👩‍👦 🐕 📖 💤 🎮 🏀 🏖️ 🍗 🫃🏻
 
 ---
 
