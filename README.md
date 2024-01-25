@@ -10,9 +10,7 @@ Here is the repository for Homework 1!
 
 ### This, myself-portrait
 
-![This is me, the asian fat dad](/images/nate-portrait.png)
-
-<img src="/images/nate-portrait.png" alt="This is me, the asian fat dad" width="200px"/>
+<img src="/images/nate-portrait.png" alt="This is me, the asian fat dad" width="400px"/>
 
 ### My 3 Hobbies
 
