@@ -10,7 +10,9 @@ Here is the repository for Homework 1!
 
 ### This, myself-portrait
 
-![This is me, the asian fat dad](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/3ab789d6f5d027f04d068229d94212fb34cb0ad0914f05b9.png)
+![This is me, the asian fat dad](/images/nate-portrait.png)
+
+<img src="/images/nate-portrait.png" alt="This is me, the asian fat dad" width="200px"/>
 
 ### My 3 Hobbies
 
